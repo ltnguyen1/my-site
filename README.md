@@ -1,2 +1,4 @@
 # my-site
-personal site
+<body>
+<strong>personal site</strong>
+</body>
